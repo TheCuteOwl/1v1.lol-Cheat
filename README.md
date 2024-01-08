@@ -29,7 +29,7 @@
 1. Clone this repository to your local machine.
 2. Install the required dependencies.
 3. Run the `MemoryEditorGUI.py` script.
-
+ 
 ```bash
 python MemoryEditorGUI.py
 ```
